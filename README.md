@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=romatech9.romatech9" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+romatech;ROMA-TECH+Dev;WhatsApp+Bot+Creator;I+like+coding+more; everything+in+my+life" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+romatech;ROMA-TECH+Dev;WhatsApp+Bot+Creator;I+like+coding+more;everything+in+my+life" alt="Typing SVG"/>
 </h1>
 
 ### 🎯 About Me
