@@ -12,7 +12,7 @@
 - 🤝 **I'm looking to collaborate on** ... MUFASER-X-BOT & other bot projects
 - 📍 **Location** ... Kampala, Uganda 🇺🇬
 - 🌐 **Website** ... Roma.tech/codring.come
-- 📫 **How to reach me** ... romatech585@gmail.com | [@Roma-Tech-1](https://youtube.com/@Roma-Tech-1) | [Telegram](https://t.me/ROMATECH6)
+- 📫 **How to reach me** ... [Telegram](https://t.me/ROMATECH6)
 - 😄 **Pronouns** ... He/Him
 - ⚡ **Fun fact** ... MUFASER-X-BOT IS MY BEST ❤️ BRO
 -🚀  **ROMA-TECH** ... FOR GOD AND MY COUNTY 
