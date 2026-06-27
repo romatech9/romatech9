@@ -42,12 +42,10 @@
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=MUFASER-X+IS+COMING+SOON;MADE+BY+ROMA-TECH;Powerful+WhatsApp+Bot" alt="Typing SVG" />
-
-
 <!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
 
 
 
