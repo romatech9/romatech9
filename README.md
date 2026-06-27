@@ -33,7 +33,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=romatech9&theme=radical&hide_border=true" alt="streak"/>
 </p>
 
+<div align="center">
 
+<!-- Contribution Graph -->
+<h2>📈 Contribution Graph</h2>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roma-Tech&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&theme=tokyo-night" alt="activity graph" />
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=MUFASER-X+IS+COMING+SOON;MADE+BY+ROMA-TECH;Powerful+WhatsApp+Bot" alt="Typing SVG" />
+
+
+<!-- Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+
+</div>
 
 
 
