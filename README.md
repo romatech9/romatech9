@@ -17,8 +17,9 @@
 - ⚡ **Fun fact** ... MUFASER-X-BOT IS MY BEST ❤️ BRO
 -🚀  **ROMA-TECH** ... FOR GOD AND MY COUNTY 
 ---
-
 ### 📊 GitHub Stats
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=500&color=00FF00&background=000&center=false&vCenter=false&width=600&lines=🚀MUFASER-X🚀:+INITIALIZING+SYSTEM....;+BYPASSING+FIREWALL....;+DECRYPTING+DATA....;+INJECTING+PAYLOAD...;🚀MUFASER-X+ACCESS+GRANTED+%E2%9C%94;+WELCOME+TO+🚀MUFASER-X-BOT🚀" alt="Terminal"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=romatech9&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
@@ -32,7 +33,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=romatech9&theme=radical&hide_border=true" alt="streak"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=500&color=00FF00&background=000&center=false&vCenter=false&width=600&lines=🚀MUFASER-X🚀:+INITIALIZING+SYSTEM....;+BYPASSING+FIREWALL....;+DECRYPTING+DATA....;+INJECTING+PAYLOAD...;🚀MUFASER-X+ACCESS+GRANTED+%E2%9C%94;+WELCOME+TO+🚀MUFASER-X-BOT🚀" alt="Terminal"/>
+
+
+
+
 
 
 
