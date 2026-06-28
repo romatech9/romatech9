@@ -21,7 +21,7 @@
 - 🎊 **FOR GOD AND MY COUNTY**
 ## 📊 GitHub Stats
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFF1493&center=true&vCenter=true&width=520&lines=🚀+ROMA=MUFASER-X-BOT...🚀;INITIALIZING+SYSTEM....⚙️;UPLOADING+INFORMATION....⌛;BYPASSING+FIREWALL....🏷️;DECRYPTING+DATA....💻;INJECTING+PAYLOAD...🛜;MUFASER-X+ACCESS+GRANTED+✅;WELCOME👋+TO+🚀MUFASER-X+SYSTEM🚀" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=520&lines=🚀+ROMA=MUFASER-X-BOT...🚀;INITIALIZING+SYSTEM....⚙️;UPLOADING+INFORMATION....⌛;BYPASSING+FIREWALL....🏷️;DECRYPTING+DATA....💻;INJECTING+PAYLOAD...🛜;MUFASER-X+ACCESS+GRANTED+✅;WELCOME👋+TO+🚀MUFASER-X+SYSTEM🚀" alt="Typing SVG"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=romatech9&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
