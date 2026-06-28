@@ -18,8 +18,8 @@
 - ⚡ **Fun fact** ... MUFASER-X-BOT IS MY BEST ❤️ BRO
 - 🎹**🎧IN MY FREE TIME 🎧** .... 
 <a href="https://res.cloudinary.com/dqxlb29uz/raw/upload/v1782595807/bwm_uploads/media-1782595807431.mp3" target="_blank">MUFASER-X-BOT;SOUND🚀</a>.
-</p>
 - 🎊 **FOR GOD AND MY COUNTY**
+- </p>
 ### 📊 GitHub Stats
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=500&color=00FF00&background=000&center=false&vCenter=false&width=600&lines=🚀MUFASER-X🚀:+INITIALIZING+SYSTEM....;+BYPASSING+FIREWALL....;+DECRYPTING+DATA....;+INJECTING+PAYLOAD...;🚀MUFASER-X+ACCESS+GRANTED+%E2%9C%94;+WELCOME+TO+🚀MUFASER-X-BOT🚀" alt="Terminal"/>
