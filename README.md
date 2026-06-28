@@ -20,8 +20,7 @@
 <a href="https://res.cloudinary.com/dqxlb29uz/raw/upload/v1782595807/bwm_uploads/media-1782595807431.mp3" target="_blank">MUFASER-X-BOT;SOUND🚀</a>.
 - 🎊 **FOR GOD AND MY COUNTY**
 ## 📊 GitHub Stats
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=500&color=00FF00&background=000&center=false&vCenter=false&width=600&lines=🚀MUFASER-X🚀:+INITIALIZING+SYSTEM....;+BYPASSING+FIREWALL....;+DECRYPTING+DATA....;+INJECTING+PAYLOAD...;🚀MUFASER-X+ACCESS+GRANTED+%E2%9C%94;+WELCOME+TO+🚀MUFASER-X-BOT🚀" alt="Terminal"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=520&lines=🚀+ROMA=MUFASER-X-BOT...🚀;+INITIALIZING+SYSTEM....⚙️; +UPLOADING+INFORMATION....⌛;+BYPASSING+FIREWALL....🏷️;+DECRYPTING+DATA....💻;+INJECTING+PAYLOAD...🛜;+MUFASER-X+ACCESS+GRANTED+✅;+WELCOME👋+TO+🚀MUFASER-X+SYSTEM🚀" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=romatech9&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
