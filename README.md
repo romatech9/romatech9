@@ -16,12 +16,7 @@
 - [Telegram](https://t.me/ROMATECH6)
 - 😄 **Pronouns** ... He/Him
 - ⚡ **Fun fact** ... MUFASER-X-BOT IS MY BEST ❤️ BRO
--🚀  **ROMA-TECH** ... FOR GOD AND MY COUNTY
-- 📢 **💫IN MY FREE TIME💫** ... 
-<audio width="400" controls>
-  <source src="audio.mp3" type="audio/mp3">
-  <source src="audio.ogg" type="audio/ogg">
-</audio>
+-🚀  **ROMA-TECH** ... Dndnjej
 <a href="https://res.cloudinary.com/dqxlb29uz/raw/upload/v1782595807/bwm_uploads/media-1782595807431.mp3" target="_blank">【 🚀MUFASER-X-BOT🚀 】</a>.
 
 ### 📊 GitHub Stats
