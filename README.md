@@ -20,11 +20,11 @@
 <a href="https://res.cloudinary.com/dqxlb29uz/raw/upload/v1782595807/bwm_uploads/media-1782595807431.mp3" target="_blank">
 ཌROMA-TECH-DAVད
 </a>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+  #
 <a
 href="https://res.cloudinary.com/dqxlb29uz/raw/upload/v1782630480/bwm_uploads/media-1782630479932.mp3"
 target="_blank">
-  🚀ཌMUFASER-X-BOTད🚀</a>
+ཌMUFASER-X-BOTད</a>
   
 - 🎊 **FOR GOD AND MY COUNTY**
 ## 📊 GitHub Stats
