@@ -17,7 +17,6 @@
 - 😄 **Pronouns** ... He/Him
 - ⚡ **Fun fact** ... MUFASER-X-BOT IS MY BEST ❤️ BRO
 -🚀  **ROMA-TECH** ... FOR GOD AND MY COUNTY
-</p>
 - 📢 **💫IN MY FREE TIME💫** ... 
 <audio width="400" controls>
   <source src="audio.mp3" type="audio/mp3">
