@@ -5,6 +5,9 @@
 </h1>
 
 ### 🎯 About Me
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=romatecny&color=00FF00&style=flat-square&label=PROFILE+VIEWS" alt="visitors" />
+</p>
 
 - 👋 **Hi, I'm** @romatech9 
 - 💻 **I'm interested in** ... WhatsApp Bots, Node.js, Baileys MD
