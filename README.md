@@ -63,9 +63,10 @@ target="_blank">
 </h1>
 
 ### 🚀 One-Click Deploy
+<p align="left">
   <a href="https://katabump.com"><img src="https://img.shields.io/badge/Deploy-Katabump-FF1493?style=for-the-badge&logo=docker" alt="katabump"/></a>
   <a href="https://replit.com"><img src="https://img.shields.io/badge/Deploy-Replit-F2622A?style=for-the-badge&logo=replit" alt="replit"/></a>
-</a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
