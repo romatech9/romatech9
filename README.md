@@ -57,10 +57,10 @@ target="_blank">
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=𝐌𝐔𝐅𝐀𝐒𝐄𝐑-𝐗+𝐁𝐎𝐓id=&fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=𝐌𝐔𝐅𝐀𝐒𝐄𝐑-𝐗+𝐁𝐎𝐓&fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=38" />
 </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ROMA-TECH+MUFASER-X;WhatsApp+Bot+Powered+by+Baileys;24%2F7+Online+on+all+Panels;Built+in+Kampala+🇺🇬"<p alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ROMA-TECH+MUFASER-X;WhatsApp+Bot+Powered+by+Baileys;24%2F7+Online+on+all+Panels;Built+in+Kampala+🇺🇬"<p alt="Typing SVG"/>
 </h1>
 <!-- Wave Footer -->
 <p align="center">
