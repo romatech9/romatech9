@@ -68,7 +68,7 @@ target="_blank">
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ROMA-TECH+MUFASER-X;WhatsApp+Bot+Powered+by+Baileys;24%2F7+Online+on+all+Panels;Built+in+Kampala+🇺🇬" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ROMA-TECH+MUFASER-X;WhatsApp+Bot+Powered+by+Baileys;24%2F7+Online+on+all+Panels;Built+in+Kampala" alt="Typing SVG" />
 </h1>
 
 
