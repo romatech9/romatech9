@@ -56,7 +56,12 @@ target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=romatech9&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&theme=tokyo-night" alt="activity graph" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=MUFASER-X+IS+COMING+SOON;MADE+BY+ROMA-TECH;Powerful+WhatsApp+Bot" alt="Typing SVG" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=𝐌𝐔𝐅𝐀𝐒𝐄𝐑-𝐗+𝐁𝐎𝐓id=&fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=38" />
+</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ROMA-TECH+MUFASER-X;WhatsApp+Bot+Powered+by+Baileys;24%2F7+Online+on+all+Panels;Built+in+Kampala+🇺🇬"<p alt="Typing SVG" />
+</h1>
 <!-- Wave Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
