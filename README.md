@@ -49,8 +49,6 @@ target="_blank">
 </p>
 
 <div align="center">
-
-<!-- Contribution Graph -->
 <h2>📈 Contribution Graph</h2>
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=romatech9&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&theme=tokyo-night" alt="activity graph" />
