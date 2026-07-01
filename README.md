@@ -59,6 +59,7 @@ target="_blank">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=𝐌𝐔𝐅𝐀𝐒𝐄𝐑-𝐗+𝐁𝐎𝐓&plp0fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=30&desc=𝙈𝘼𝘿𝙀+𝘽𝙔+𝙍𝙊𝙈𝘼-𝙏𝙀𝘾𝙃&descAlignY=55&descSize=30" />
 </p>
+
 <h1 align="center"
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ROMA-TECH+MUFASER-X;WhatsApp+Bot+Powered+by+Baileys;24%2F7+Online+on+all+Panels;Built+in+Kampala+🇺🇬"<p alt="Typing SVG"/>
 </h1>
