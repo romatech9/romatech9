@@ -62,6 +62,12 @@ target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ROMA-TECH+MUFASER-X;WhatsApp+Bot+Powered+by+Baileys;24%2F7+Online+on+all+Panels;Built+in+Kampala+Uganda" alt="Typing SVG" />
 </h1>
 
+### 🚀 One-Click Deploy
+<p align="center">
+  <a href="https://katabump.com"><img src="https://img.shields.io/badge/Deploy-Katabump-FF1493?style=for-the-badge&logo=docker" alt="katabump"/></a>
+  <a href="https://replit.com"><img src="https://img.shields.io/badge/Deploy-Replit-F2622A?style=for-the-badge&logo=replit" alt="replit"/></a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
