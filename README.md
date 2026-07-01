@@ -69,7 +69,10 @@ target="_blank">
 <h2>🚀 One-Click Deploy</h2>
     <p>
   <a href="https://katabump.com"><img src="https://img.shields.io/badge/Deploy-Katabump-FF1493?style=for-the-badge&logo=docker" alt="katabump"/></a>
-  <a href="https://replit.com"><img src="https://img.shields.io/badge/Deploy-Replit-F2622A?style=for-the-badge&logo=replit" alt="replit"/></a>
+  <a href="https://railway.app/new/template?template=https://github.com/ROMA-TECH/MUFASER-X">
+    <img src="https://img.shields.io/badge/DEPLOY-RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  </a>
+<a href="https://replit.com"><img src="https://img.shields.io/badge/Deploy-Replit-F2622A?style=for-the-badge&logo=replit" alt="replit"/></a>
 </p>
 
 <p align="center">
