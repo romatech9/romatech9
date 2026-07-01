@@ -43,6 +43,11 @@ target="_blank">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=romatech9&theme=radical&hide_border=true" alt="streak"/>
 </p>
 
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,git,github,linux,bash" />
+</p>
+
 <div align="center">
 
 <!-- Contribution Graph -->
