@@ -5,8 +5,9 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+ROMA-TECH;Ugandan+Developer;WhatsApp+Bot+Creator🤖;Creator+of+MUFASER-X;Dream+Learn+Code;Build" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+romatech;ROMA-TECH+Dev;WhatsApp+Bot+Creator;I+like+coding+more;everything+in+my+life" alt="Typing SVG"/>
 </h1>
+
 
 <p align="center">
   <b>💻 Developer • 🤖 WhatsApp Bot Creator • 🌐 Web Coder</b>
@@ -231,7 +232,7 @@ Every project helped me learn.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+ROMA-TECH+🇺🇬;Thanks+for+supporting+MUFASER-X+🚀;My+journey+is+still+being+written...;ROMA-TECH+💻+UGANDA+🇺🇬" alt="ROMA-TECH Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+ROMA-TECH🇺🇬;Thanks+for+supporting+MUFASER-X🚀;My+journey+is+still+being+written...;ROMA-TECH+💻+UGANDA" alt="Typing SVG"/>
 </p>
 
 <p align="center">
