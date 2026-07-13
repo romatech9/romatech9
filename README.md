@@ -39,7 +39,7 @@ Today, I continue working and using my free time to explore **coding, web develo
 
 ---
 
-## 🤖 Creator of MUFASER-X 🚀
+## Creator of MUFASER-X 🚀
 
 On **23 May 2026**, I created **MUFASER-X**, a WhatsApp bot project developed by **ROMA-TECH 🇺🇬**.
 
@@ -68,7 +68,7 @@ It represents my dream, my struggle, my learning journey, and my determination t
 
 ---
 
-## 👨‍💻 ROMA-TECH Developer Information
+## 👨‍💻 Developer Information
 
 - 👤 **Public Name:** ROMA-TECH
 - 🇺🇬 **Country:** Uganda
