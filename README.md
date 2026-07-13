@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=romatech9.romatech9" />
-
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=romatech9&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="ROMA-TECH Profile Views" />
 </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=romatech9.romatech9" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+romatech;ROMA-TECH+Dev;WhatsApp+Bot+Creator;I+like+coding+more;everything+in+my+life" alt="Typing SVG"/>
 </h1>
@@ -11,7 +11,6 @@
 <p align="center">
   <b>💻 Developer • 🤖 WhatsApp Bot Creator • 🌐 Web Coder</b>
 </p>
----
 
 ## 💻 About ROMA-TECH 🇺🇬
 
@@ -204,21 +203,10 @@ Every project helped me learn.
 
 **MUFASER-X is part of my journey, and my journey is still being written.**
 
----
-
-<h3 align="center">
-  🚀 DEVELOPER OF MUFASER-X
-</h3>
-
-<p align="center">
-  <b>DREAM • LEARN • CODE • BUILD</b>
-</p>
-
-</p>  <h1 align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ROMA-TECH+MUFASER-X;WhatsApp+Bot+Powered+by+Baileys;24%2F7+Online+on+all+Panels;Built+in+Kampala+Uganda" alt="Typing SVG" /> 
-
-  <h1  <div align="left">      
+ <h1  <div align="left">
 <h2>🚀 One-Click Deploy</h2>  
+    <h1 align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ROMA-TECH+MUFASER-X;WhatsApp+Bot+Powered+by+Baileys;24%2F7+Online+on+all+Panels;Built+in+Kampala+Uganda" alt="Typing SVG" />
     <p>  
   <a href="https://katabump.com"><img src="https://img.shields.io/badge/Deploy-Katabump-FF1493?style=for-the-badge&logo=docker" alt="katabump"/></a>  
   <a href="https://railway.app/new/template?template=https://github.com/ROMA-TECH/MUFASER-X">  
@@ -226,6 +214,6 @@ Every project helped me learn.
   </a>  
 <a href="https://replit.com"><img src="https://img.shields.io/badge/Deploy-Replit-F2622A?style=for-the-badge&logo=replit" alt="replit"/></a>  
 </p>  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=ROMA-TECH&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=UGANDAN%20DEVELOPER%20%7C%20CREATOR%20OF%20MUFASER-X&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=𝐌𝐔𝐅𝐀𝐒𝐄𝐑-𝐗-𝐁𝐎𝐓&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=UGANDAN%20DEVELOPER%20%7C%20CREATOR%20OF%20MUFASER-X&descAlignY=60&descSize=20" />
 </p>
 
