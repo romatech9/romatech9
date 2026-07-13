@@ -104,7 +104,11 @@ It represents my dream, my struggle, my learning journey, and my determination t
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romatech9&theme=github_dark" alt="ROMA-TECH GitHub Stats" />
 </p>
-
+<a href="https://chatgpt.com">
+    <img src="https://img.shields.io/badge/✋%20AI-FF00FF?style=for-the-badge&logo=openai&logoColor=white" />
+  </a><a href="https://chatgpt.com">
+    <img src="https://img.shields.io/badge/✋%20AI-FF00FF?style=for-the-badge&logo=openai&logoColor=white" />
+      </a>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=romatech9&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
@@ -118,8 +122,6 @@ It represents my dream, my struggle, my learning journey, and my determination t
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=romatech9&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="ROMA-TECH Activity Graph" />
 </p>
-
----
 
 <h1  <div align="left">
   
