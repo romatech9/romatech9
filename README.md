@@ -140,7 +140,7 @@ It represents my dream, my struggle, my learning journey, and my determination t
 ## 🎧 In My Free Time
 
 
-<p align="center">     
+<h1  <div align="left">        
   🎹 Music • 💻 Coding • 🤖 Bot Development • 🌐 Learning Technology
 </p>
 
@@ -180,6 +180,9 @@ It represents my dream, my struggle, my learning journey, and my determination t
 
 <a href="https://github.com/romatech9/MUFASER-X">
   <img src="https://img.shields.io/badge/GitHub-MUFASER--X-black?style=for-the-badge&logo=github" />
+</a>
+<a href="https://wa.me/256791480644" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-ROMA--TECH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 </p>
 
