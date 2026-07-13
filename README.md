@@ -234,9 +234,9 @@ Every project helped me learn.
 </p>  <h1 align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ROMA-TECH+MUFASER-X;WhatsApp+Bot+Powered+by+Baileys;24%2F7+Online+on+all+Panels;Built+in+Kampala+Uganda" alt="Typing SVG" /> 
 
-  h1>  <div align="left">
+  <h1  <div align="left">
   
-# 🚀 One-Click Deploy 
+### 🚀 One-Click Deploy 
   <a href="https://katabump.com"><img src="https://img.shields.io/badge/Deploy-Katabump-FF1493?style=for-the-badge&logo=docker" alt="katabump"/></a>  
   <a href="https://railway.app/new/template?template=https://github.com/ROMA-TECH/MUFASER-X">  
     <img src="https://img.shields.io/badge/DEPLOY-RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />  
