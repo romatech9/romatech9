@@ -1,9 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=romatech9.romatech9" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=ROMA-TECH&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=UGANDAN%20DEVELOPER%20%7C%20CREATOR%20OF%20MUFASER-X&descAlignY=60&descSize=20" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=romatech9&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="ROMA-TECH Profile Views" />
 </p>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+romatech;ROMA-TECH+Dev;WhatsApp+Bot+Creator;I+like+coding+more;everything+in+my+life" alt="Typing SVG"/>
 </h1>
@@ -12,11 +11,6 @@
 <p align="center">
   <b>💻 Developer • 🤖 WhatsApp Bot Creator • 🌐 Web Coder</b>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=romatech9&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="ROMA-TECH Profile Views" />
-</p>
-
 ---
 
 ## 💻 About ROMA-TECH 🇺🇬
@@ -109,7 +103,7 @@ It represents my dream, my struggle, my learning journey, and my determination t
 
 ---
 
-## 📊 ROMA-TECH GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romatech9&theme=github_dark" alt="ROMA-TECH GitHub Stats" />
@@ -154,27 +148,27 @@ target="_blank">
 
 <h1  <div align="left">
 
-<a href="https://tiktok.com/@romatech5">
-  <img src="https://img.shields.io/badge/TikTok-ROMA--TECH-black?style=for-the-badge&logo=tiktok" />
-</a>
-
-<a href="https://youtube.com/@roma-tech-1">
-  <img src="https://img.shields.io/badge/YouTube-ROMA--TECH-red?style=for-the-badge&logo=youtube" />
-</a>
-
 <a href="https://www.instagram.com/romatech.6">
   <img src="https://img.shields.io/badge/Instagram-ROMA--TECH-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+
+<a href="https://wa.me/256791480644" target="_blank">
+<img src="https://img.shields.io/badge/WHATSAPP-ROMA--TECH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 <a href="https://t.me/ROMATECH6">
   <img src="https://img.shields.io/badge/Telegram-ROMA--TECH-26A5E4?style=for-the-badge&logo=telegram" />
 </a>
+<a href="https://youtube.com/@roma-tech-1">
+  <img src="https://img.shields.io/badge/YouTube-ROMA--TECH-red?style=for-the-badge&logo=youtube" />
+</a>
+
+<a href="https://tiktok.com/@romatech5">
+  <img src="https://img.shields.io/badge/TikTok-ROMA--TECH-black?style=for-the-badge&logo=tiktok" />
+</a>
 
 <a href="https://github.com/romatech9/MUFASER-X">
   <img src="https://img.shields.io/badge/GitHub-MUFASER--X-black?style=for-the-badge&logo=github" />
-</a>
-<a href="https://wa.me/256791480644" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-ROMA--TECH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 </p>
 
@@ -231,7 +225,7 @@ Every project helped me learn.
     <img src="https://img.shields.io/badge/DEPLOY-RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />  
   </a>  
 <a href="https://replit.com"><img src="https://img.shields.io/badge/Deploy-Replit-F2622A?style=for-the-badge&logo=replit" alt="replit"/></a>  
-</p>  <p align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>  
-</p> 
+</p>  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=ROMA-TECH&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=UGANDAN%20DEVELOPER%20%7C%20CREATOR%20OF%20MUFASER-X&descAlignY=60&descSize=20" />
+</p>
 
