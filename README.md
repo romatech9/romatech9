@@ -231,9 +231,8 @@ Every project helped me learn.
   <b>DREAM • LEARN • CODE • BUILD</b>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+ROMA-TECH%F0%9F%87%BA%F0%9F%87%AC;Thanks+for+supporting+MUFASER-X%F0%9F%9A%80;My+journey+is+still+being+written...;ROMA-TECH+%F0%9F%92%BB+UGANDA" alt="Typing SVG" />
-</p>
+</p>  <h1 align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ROMA-TECH+MUFASER-X;WhatsApp+Bot+Powered+by+Baileys;24%2F7+Online+on+all+Panels;Built+in+Kampala+Uganda" alt="Typing SVG" /> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
