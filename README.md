@@ -139,17 +139,18 @@ It represents my dream, my struggle, my learning journey, and my determination t
 
 ## 🎧 In My Free Time
 
-<p align="center">
+
+<p align="center">     
   🎹 Music • 💻 Coding • 🤖 Bot Development • 🌐 Learning Technology
 </p>
 
-<p align="center">
+<h1  <div align="left">      
   <a href="https://res.cloudinary.com/dqxlb29uz/raw/upload/v1782595807/bwm_uploads/media-1782595807431.mp3">
     🎧 ROMA-TECH-DAV
   </a>
 </p>
 
-<p align="center">
+<h1  <div align="left">      
   <a href="https://res.cloudinary.com/dqxlb29uz/raw/upload/v1782630480/bwm_uploads/media-1782630479932.mp3">
     🎧 MUFASER-X-BOT
   </a>
@@ -180,13 +181,6 @@ It represents my dream, my struggle, my learning journey, and my determination t
 <a href="https://github.com/romatech9/MUFASER-X">
   <img src="https://img.shields.io/badge/GitHub-MUFASER--X-black?style=for-the-badge&logo=github" />
 </a>
-
- <a href="https://wa.me/256791480644">
-    <img src="https://img.shields.io/badge/💻%20ON WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-
 </p>
 
 ---
