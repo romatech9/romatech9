@@ -1,10 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=romatech9.romatech9" />
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+romatech;ROMA-TECH+Dev;WhatsApp+Bot+Creator;I+like+coding+more;everything+in+my+life" alt="Typing SVG"/>
 </h1>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</div>
 
 <p align="center">
   <b>💻 Developer • 🤖 WhatsApp Bot Creator • 🌐 Web Coder</b>
@@ -218,9 +217,9 @@ Every project helped me learn.
 </p>  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=𝐌𝐔𝐅𝐀𝐒𝐄𝐑-𝐗-𝐁𝐎𝐓&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=UGANDAN%20DEVELOPER%20%7C%20CREATOR%20OF%20MUFASER-X&descAlignY=60&descSize=20" />
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</div>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=romatech9&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="ROMA-TECH Profile Views" />
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</div>
 
