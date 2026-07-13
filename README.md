@@ -232,7 +232,7 @@ Every project helped me learn.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+ROMA-TECH🇺🇬;Thanks+for+supporting+MUFASER-X🚀;My+journey+is+still+being+written...;ROMA-TECH+💻+UGANDA" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+ROMA-TECH%F0%9F%87%BA%F0%9F%87%AC;Thanks+for+supporting+MUFASER-X%F0%9F%9A%80;My+journey+is+still+being+written...;ROMA-TECH+%F0%9F%92%BB+UGANDA" alt="Typing SVG" />
 </p>
 
 <p align="center">
