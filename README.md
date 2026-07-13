@@ -137,10 +137,9 @@ It represents my dream, my struggle, my learning journey, and my determination t
 
 ---
 
+<h1  <div align="left">
+  
 ## 🎧 In My Free Time
-
-
-<h1  <div align="left">        
   🎹 Music • 💻 Coding • 🤖 Bot Development • 🌐 Learning Technology
 </p>
 <a href="https://res.cloudinary.com/dqxlb29uz/raw/upload/v1782595807/bwm_uploads/media-1782595807431.mp3" target="_blank">
