@@ -89,11 +89,10 @@ It represents my dream, my struggle, my learning journey, and my determination t
   <img src="https://skillicons.dev/icons?i=nodejs,js,git,github,linux,bash,html,css" />
 </p>
 
-
 <h1  <div align="left">
-  <img src="https://img.shields.io/badge/Node.js-Developer-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-Coder-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/WhatsApp-Bot%20Creator-25D366?style=for-the-badge&logo=whatsapp" />
+  <img src="https://img.shields.io/badge/JavaScript-Coder-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-Developer-green?style=for-the-badge&logo=node.js" /> 
 </p>
 
 ---
