@@ -157,9 +157,9 @@ It represents my dream, my struggle, my learning journey, and my determination t
 
 ---
 
-## 🌍 Connect With ROMA-TECH
+## 🌍 CONNECT WITH ON
 
-<p align="center">
+<h1  <div align="left">
 
 <a href="https://tiktok.com/@romatech5">
   <img src="https://img.shields.io/badge/TikTok-ROMA--TECH-black?style=for-the-badge&logo=tiktok" />
@@ -180,6 +180,12 @@ It represents my dream, my struggle, my learning journey, and my determination t
 <a href="https://github.com/romatech9/MUFASER-X">
   <img src="https://img.shields.io/badge/GitHub-MUFASER--X-black?style=for-the-badge&logo=github" />
 </a>
+
+ <a href="https://wa.me/256791480644">
+    <img src="https://img.shields.io/badge/💻%20ON WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
 
 </p>
 
@@ -216,12 +222,6 @@ Every project helped me learn.
 **MUFASER-X is part of my journey, and my journey is still being written.**
 
 ---
-
-<h2 align="center">🇺🇬 FOR GOD AND MY COUNTRY 🇺🇬</h2>
-
-<h3 align="center">
-  💻 ROMA-TECH 🇺🇬
-</h3>
 
 <h3 align="center">
   🚀 DEVELOPER OF MUFASER-X
