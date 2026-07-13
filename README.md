@@ -1,6 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=romatech9&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="ROMA-TECH Profile Views" />
-</p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=romatech9.romatech9" />
 
 <h1 align="center">
@@ -207,6 +204,10 @@ Every project helped me learn.
 <h2>🚀 One-Click Deploy</h2>  
     <h1 align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ROMA-TECH+MUFASER-X;WhatsApp+Bot+Powered+by+Baileys;24%2F7+Online+on+all+Panels;Built+in+Kampala+Uganda" alt="Typing SVG" />
+</h1>
+ </p>
+      
+  <h1  <div align="left">
     <p>  
   <a href="https://katabump.com"><img src="https://img.shields.io/badge/Deploy-Katabump-FF1493?style=for-the-badge&logo=docker" alt="katabump"/></a>  
   <a href="https://railway.app/new/template?template=https://github.com/ROMA-TECH/MUFASER-X">  
