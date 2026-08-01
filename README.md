@@ -126,15 +126,12 @@ It represents my dream, my struggle, my learning journey, and my determination t
 ## 🎧 In My Free Time
   🎹 Music • 💻 Coding • 🤖 Bot Development • 🌐 Learning Technology
 </p>
-<a href="https://res.cloudinary.com/dqxlb29uz/raw/upload/v1782595807/bwm_uploads/media-1782595807431.mp3" target="_blank">
-ཌROMA-TECH-DAVད
-</a>
+<p align="center">
+  <h3 align="center"></h3>
 
-<hr>  
-<a  
-href="https://res.cloudinary.com/dqxlb29uz/raw/upload/v1782630480/bwm_uploads/media-1782630479932.mp3"  
-target="_blank">
-ཌMUFASER-X-BOTད</a>
+  <a href="https://res.cloudinary.com/vaitzgwv/video/upload/v1785603636/qknngrvbux5vaq5mbgig.mp3" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20PLAY%20AUDIO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
 </p>
 
