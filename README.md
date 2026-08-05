@@ -104,7 +104,7 @@ It represents my dream, my struggle, my learning journey, and my determination t
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romatech9&theme=github_dark" alt="ROMA-TECH GitHub Stats" />
 </p>
-<a href="https://chatgpt.com">
+<a href="https://t.me/MufaserXbot">
     <img src="https://img.shields.io/badge/✋%20LETS CHATT-FF00FF?style=for-the-badge&logo=openai&logoColor=white" />
   </a>
 <p align="center">
