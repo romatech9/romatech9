@@ -210,7 +210,6 @@ Every project helped me learn.
   <a href="https://railway.app/new/template?template=https://github.com/ROMA-TECH/MUFASER-X">  
     <img src="https://img.shields.io/badge/DEPLOY-RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />  
   </a>  
-<a href="https://replit.com"><img src="https://img.shields.io/badge/Deploy-Replit-F2622A?style=for-the-badge&logo=replit" alt="replit"/></a>  
 </p>  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=𝐌𝐔𝐅𝐀𝐒𝐄𝐑-𝐗-𝐁𝐎𝐓&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=UGANDAN%20DEVELOPER%20%7C%20CREATOR%20OF%20MUFASER-X&descAlignY=60&descSize=20" />
 </p>
