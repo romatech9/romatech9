@@ -116,9 +116,8 @@ It represents my dream, my struggle, my learning journey, and my determination t
 ---
 
 ## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romatech9&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="ROMA-TECH Activity Graph" />
+  <img src="https://github-profiles-insights.vercel.app/api/insight?username=romatech9&card=graph&theme=github_dark" width="100%" />
 </p>
 
 <h1  <div align="left">
